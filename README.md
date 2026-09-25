@@ -1,15 +1,15 @@
-<img align="left" width="350" alt="image" src="https://i.postimg.cc/L64DN4yP/Tumblr-l-194470080312513.gif"/> 
+<img align="left" width="350" alt="image" src="https://i.postimg.cc/Cx5zv9T8/Untitled127-20260925142357.png"/> 
 <details>
-<summary>      <p> $\color{gold}\large{\textsf{YOYLE⠀}}$ $\color{gold}\normalsize{\textsf{or}}$
-$\color{gold}\large{\textsf{⠀DOTTIE}}$</summary>
+<summary>      <p> $\color{#ff9d00}\large{\textsf{YOYLE⠀}}$ $\color{#ff8d00}\normalsize{\textsf{or}}$
+$\color{#ff7e01}\large{\textsf{⠀DOTTIE}}$</summary>
 <table>
   <tr>
     <th>
-      $\color{gold}\small{\textsf{⠀¹7⠀⠀⠀SheHer⠀⠀⠀Aromantic}}$
+      $\color{#ff9d00}\small{\textsf{⠀¹7⠀⠀⠀SheHer⠀⠀⠀Aromantic}}$
 
-$\color{gold}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{#ff8d00}\small{\textsf{⠀⠀๑⠀⠀}}$
       
-$\color{gold}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
+$\color{#ff7e01}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
     </th>
   </tr>
 </table>
@@ -17,20 +17,20 @@ $\color{gold}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
 </details> 
 
 <details>
-<summary>      <p> $\color{gold}\large{\textsf{PONYTOWN}}$ $\color{gold}\large{\textsf{INFO.}}$</summary>
+<summary>      <p> $\color{#ff9d00}\large{\textsf{PONYTOWN}}$ $\color{#ff8d00}\large{\textsf{INFO.}}$</summary>
 <table>
   <tr>
     <th>
   
-  <p align="left">$\color{violet}\small{\textsf{⠀ ⠀C*H Comf⠀⠀W2I Pref.}}$
+  <p align="left">$\color{#ff9d00}\small{\textsf{⠀ ⠀C*H Comf⠀⠀W2I Pref.}}$
 
-$\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{#ff8d00}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{plum}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
+<p align="left">$\color{#ff7e01}\small{\textsf{⠀Offtab Freq.⠀⠀Cosplay Main}}$
 
-$\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{#ff6e01}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{orchid}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
+<p align="left">$\color{#ff5e01}\small{\textsf{⠀⠀⠀Traveler⠀⠀Any INT!⠀...}}$ </p>
     </th>
   </tr>
 </table>
@@ -38,20 +38,20 @@ $\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 
 <details>
-<summary>      <p align="left">$\color{gold}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
+<summary>      <p align="left">$\color{#ff9d00}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
 
   <table>
   <tr>
     <th>
-<p align="left">$\color{violet}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
+<p align="left">$\color{#ff9d00}\small{\textsf{⠀⠀Proshipper⠀⠀Racist}}$
 
-$\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{#ff8d00}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{plum}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
+<p align="left">$\color{#ff7e01}\small{\textsf{⠀LGBTQphobe⠀⠀Yume}}$
 
-$\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{#ff6e01}\small{\textsf{⠀⠀๑⠀⠀}}$
 
-<p align="left">$\color{orchid}\small{\textsf{⠀⠀⠀Radqueer⠀⠀15-}}$
+<p align="left">$\color{#ff5e01}\small{\textsf{⠀⠀⠀Radqueer⠀⠀15-}}$
       </th>
   </tr>
 </table>
