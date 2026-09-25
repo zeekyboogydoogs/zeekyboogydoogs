@@ -1,17 +1,15 @@
-<img alt="image" src="https://i.postimg.cc/0jZvNLx0/Untitled117-20260918151536.png"/> 
-
-<img align="left" width="350" alt="image" src="https://i.postimg.cc/HxZJq7Mw/Untitled115-20260918131657.png"/> 
+<img align="left" width="350" alt="image" src="https://i.postimg.cc/L64DN4yP/Tumblr-l-194470080312513.gif"/> 
 <details>
-<summary>      <p> $\color{violet}\large{\textsf{YOYLE⠀}}$ $\color{plum}\normalsize{\textsf{or}}$
-$\color{orchid}\large{\textsf{⠀DOTTIE}}$</summary>
+<summary>      <p> $\color{gold}\large{\textsf{YOYLE⠀}}$ $\color{gold}\normalsize{\textsf{or}}$
+$\color{gold}\large{\textsf{⠀DOTTIE}}$</summary>
 <table>
   <tr>
     <th>
-      $\color{violet}\small{\textsf{⠀¹7⠀⠀⠀SheHer⠀⠀⠀Aromantic}}$
+      $\color{gold}\small{\textsf{⠀¹7⠀⠀⠀SheHer⠀⠀⠀Aromantic}}$
 
-$\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
+$\color{gold}\small{\textsf{⠀⠀๑⠀⠀}}$
       
-$\color{orchid}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
+$\color{gold}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
     </th>
   </tr>
 </table>
@@ -19,7 +17,7 @@ $\color{orchid}\small{\textsf{⠀ADHD⠀⠀⠀Pansexual}}$ </p>
 </details> 
 
 <details>
-<summary>      <p> $\color{violet}\large{\textsf{PONYTOWN}}$ $\color{plum}\large{\textsf{INFO.}}$</summary>
+<summary>      <p> $\color{gold}\large{\textsf{PONYTOWN}}$ $\color{gold}\large{\textsf{INFO.}}$</summary>
 <table>
   <tr>
     <th>
@@ -40,7 +38,7 @@ $\color{plum}\small{\textsf{⠀⠀๑⠀⠀}}$
 
 
 <details>
-<summary>      <p align="left">$\color{violet}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
+<summary>      <p align="left">$\color{gold}\large{\textsf{⠀⠀⠀DNI.}}$</summary>
 
   <table>
   <tr>
