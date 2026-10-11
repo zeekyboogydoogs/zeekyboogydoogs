@@ -1,1 +1,1 @@
-<p align="center"><img width="340" src="https://i.postimg.cc/J44D8BDq/4367.png" alt="description" /></p>
+<p align="center"><img width="320" src="https://i.postimg.cc/brP6rRcr/4367.png" /></p>
