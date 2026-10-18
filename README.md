@@ -9,5 +9,4 @@
 | --- |
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
-
-<p > Text </p>
+$\color{#F8EDED}\huge{\textsf{about}}$
