@@ -9,4 +9,4 @@
 | --- |
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
-$\color{#F8EDED}\huge{\textsf{about}}$
+$\color{hotpink}\huge{\textsf{about}}$
