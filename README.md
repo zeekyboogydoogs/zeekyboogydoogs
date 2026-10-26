@@ -1,5 +1,5 @@
 <p align="center"><img width="290" src="https://i.postimg.cc/brP6rRcr/4367.png" /></p>
-<p align="center"> $\color{#ea728a}\small{\textsf{Yoyle /}}$ $\color{#E06981}\small{\textsf{ Dottie}}$⠀⠀⠀⠀SheHer</p>
+<p align="center"> $\color{#ea728a}\textsf{\textsf{Yoyle /}}$ $\color{#E06981}\textsf{\textsf{ Dottie}}$⠀⠀⠀⠀SheHer</p>
 
 | $\color{#ea728a}\large{\textsf{Fandoms}}$ | PonyTown | BYF |
 | --- | --- | --- |
