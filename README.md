@@ -9,4 +9,4 @@
 | --- |
 | Lorem ipsum dolor sit amet, consectetur adipiscing elit. |
 
-$\color{hotpink}\normal{\textsf{txt}}$
+$\color{hotpink}\textsf{\textsf{txt}}$
