@@ -3,7 +3,7 @@
 
 | $\color{olivedrab}\large{\textsf{Fandoms}}$ | $\color{olivedrab}\large{\textsf{PonyTown}}$ | $\color{olivedrab}\large{\textsf{BYF}}$ |  $\color{olivedrab}\large{\textsf{DNI}}$
 | :---: | :---: | :---: | :---: |
-| <details open> Battle for Dream Island, Inanimate Insanity, Warriors, Wings of Fire, My Little Pony, and more! | <details open> ·⠀Traveler, you'll see me just about anywhere around the map! I'll be in one spot longer if I'm hanging out with friends. | <details open> Lorem ipsum dolor sit amet, consectetur adipiscing elit. | <details open> 16- or 20+, Racist, LGBTQphobic, Radqueer, Pro/Darkshipper, or Yumeshipper. |
+| Battle for Dream Island, Inanimate Insanity, Warriors, Wings of Fire, My Little Pony, and more! | ·⠀Traveler, you'll see me just about anywhere around the map! I'll be in one spot longer if I'm hanging out with friends. | Lorem ipsum dolor sit amet, consectetur adipiscing elit. | 16- or 20+, Racist, LGBTQphobic, Radqueer, Pro/Darkshipper, or Yumeshipper. |
 
 ---
 
